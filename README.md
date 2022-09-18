@@ -1,6 +1,7 @@
 # sharing-vid
 
-About my own project. This is a project I was able to apply many functions after my internship and self-study:
+About my own project. This is a project I was able to apply many functions after my internship and self-study. For now, I am having an error with uploading the client folder, I'm checking on it and will upload it as soon as possible, so I'm leaving the temporary link of the client folder here, sorry for the inconvenience:
+https://drive.google.com/file/d/1SFD19HK1T-CEmVxt3lIVbdlVhxPuoaPy/view?usp=sharing
 
 # Technology used:
 
@@ -37,7 +38,12 @@ About my own project. This is a project I was able to apply many functions after
 - Video recommendations depend on the tags of each video
 - Authenticate user rights with each private action with jwt
 
-For now, I am having an error with uploading the client folder, I'm checking on it and will upload it as soon as possible.
+
+
+
+
+
+
 
 I also intend to update other functions in the future for personal purposes.
 
