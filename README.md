@@ -1,6 +1,6 @@
 # sharing-vid
 
-About my own project. This is a project I was able to apply many functions after my internship and self-study. For now, I am having an error with uploading the client folder, I'm checking on it and will upload it as soon as possible, so I'm leaving the temporary link of the client folder here, sorry for the inconvenience:
+About my own project. This is a project I was able to apply many functions after my internship and self-study. For now, I'm having an error with uploading the client folder, I'm checking on it and will upload it as soon as possible, so I'm leaving the temporary link of the client folder here, sorry for the inconvenience:
 https://drive.google.com/file/d/1SFD19HK1T-CEmVxt3lIVbdlVhxPuoaPy/view?usp=sharing
 
 # Technology used:
